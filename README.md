@@ -1,7 +1,7 @@
 
 # Clinical profile creation system 🧠
 
-Software application built with Java and MySQL for the database. With this software you can create clinical profiles, retrieve data, update or delete them.
+Software application built with Java and MySQL using Netbeans IDE. With this software you can create clinical profiles, retrieve data, update or delete them.
 
 
 
